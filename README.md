@@ -1,6 +1,6 @@
 # Smart Moisture Irrigation System
 
-🏆 **First Prize Winner** at [add your event name and year here]
+🏆 **First Prize Winner** at [Project Exhibition 2025]
 
 An automatic irrigation system that measures soil moisture and switches a water pump on or off without any manual work.
 
