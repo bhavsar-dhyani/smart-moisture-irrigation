@@ -30,8 +30,6 @@ An automatic irrigation system that measures soil moisture and switches a water 
 3. Select the board **NodeMCU 1.0 (ESP-12E Module)** and the correct port
 4. Upload the code and open the Serial Monitor at 9600 baud
 
-## Working
-![aplication](working_app.png)
 
 ## Author
 Dhyani Bhavsar
